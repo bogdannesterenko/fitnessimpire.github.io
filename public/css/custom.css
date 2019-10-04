@@ -1,0 +1,22 @@
+.social ul li a:hover {
+    filter: hue-rotate(170deg);
+}
+.copyright  ul li a:hover {
+    filter: grayscale(100%);
+}
+.news button:hover {
+    color:#0056b3;
+}
+.angle {
+    filter: hue-rotate(300deg);
+}
+.owl-item:nth-child(2) .slide{
+    background-image:url(/images/1.jpg);
+}
+.owl-item:nth-child(3) .slide{
+    background-image:url(/images/2.jpg);
+}
+.text a:hover, .post-content a:hover {
+    color:#00b7f4;
+}
+}
